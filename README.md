@@ -58,7 +58,7 @@ The analysis suggests that engine size, curb weight, horsepower, car width, cyli
 
 **7. Code**
 
-*   The code for this project is located in the `src` directory.
+*   The code for this project is located in the repo.
 
 **8. Dependencies**
 
